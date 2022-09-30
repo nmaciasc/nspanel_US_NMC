@@ -5,6 +5,8 @@ The view is **vertical** instead of horizonal like the EU version.
 
 This Repo is based on [marcfager panel](https://github.com/marcfager/nspanel-mf).
 
+The **tutorial** that I followed to get my NSPanel flashed can be found [HERE](https://www.youtube.com/watch?v=p-AK4o5jOSI).
+
 This version includes a new "ceiling fan" icon with on/off option inside the HMI/tft.
 
 This version includes a new look and feel for the Notifications section.
