@@ -1,4 +1,4 @@
-# nspanel_NMC
+# nspanel_US_NMC
 This Repo is for the **US version** of the nspanel from Sonoff.
 
 The view is **vertical** instead of horizonal like the EU version.
