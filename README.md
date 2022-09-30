@@ -9,6 +9,8 @@ The **tutorial** that I followed to get my NSPanel flashed can be found [HERE](h
 
 This version includes a new "ceiling fan" icon with on/off option inside the HMI/tft.
 
+Icons from [this page](https://icon-icons.com/search/icons).
+
 This version includes a new look and feel for the Notifications section.
 
 This version includes some different incons from the ones on the original repo.
