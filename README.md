@@ -5,5 +5,5 @@ The view is **vertical** instead of horizonal like the EU version.
 
 This Repo is based on [marcfager panel](https://github.com/marcfager/nspanel-mf).
 ## HMI Screenshots
-![Home screen](screenshot-home.png)
-![Home screen2](screenshot-home2.png)
+![Home screen](screenshot-home.jpeg)
+![Home screen2](screenshot-home2.jpeg)
