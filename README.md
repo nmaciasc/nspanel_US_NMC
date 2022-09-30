@@ -11,6 +11,8 @@ This version includes a new look and feel for the Notifications section.
 
 This version includes some different incons from the ones on the original repo.
 
+You will find the parts you need to replace by only searching "#Change ME" inside the yaml file.
+
 ## HMI Screenshots
 ![Home screen](screenshot-home.jpeg)
 ![Home screen2](screenshot-home2.jpeg)
